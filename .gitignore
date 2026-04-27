@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+.DS_Store
+outputs/
+*.ckpt
+*.mp4
+*.gif
