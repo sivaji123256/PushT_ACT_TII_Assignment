@@ -1,4 +1,4 @@
-# PushT ACT (Official Repo) - Training Notebook
+# PushT ACT Training and Evaluation
 
 A compact, reproducible notebook that adapts the official ACT implementation to the PushT replay dataset. It covers data loading, normalization, training, rollout-based selection, and video export.
 
